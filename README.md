@@ -24,6 +24,13 @@ The repository include research projects and course projects.
 
 
 #Gallery
+## Object detection UAVs for Search and Rescue [details](https://github.com/wtianzi/objectdetection/)
+![rgb](https://github.com/wtianzi/objectdetection/blob/main/images/test/sar5_r.png)
+![rgb](https://github.com/wtianzi/objectdetection/blob/main/images/test/sar5_r_101.png)
+![rgb](https://github.com/wtianzi/objectdetection/blob/main/images/sar1_r.png)
+![rgb](https://github.com/wtianzi/objectdetection/blob/main/images/sar1_r_101.png)
+![thermal](https://github.com/wtianzi/objectdetection/blob/main/images/sar1_t.png)
+![thermal](https://github.com/wtianzi/objectdetection/blob/main/images/sar1_t_101.png)
 
 ## AR Virtual Campus [(detail page)](https://github.com/wtianzi/ARVirtualCampus).
 ![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(1).gif)
