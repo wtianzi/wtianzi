@@ -37,9 +37,9 @@ The repository include research projects and course projects.
 ![Campus bird's eye view](https://github.com/wtianzi/ARVirtualCampus/blob/master/example/giphy(2).gif)
 
 ## SAR Web User Interface Demo [(detail page)](https://github.com/wtianzi/sarwebpro)
-![Web interface](https://github.com/wtianzi/sarwebpro/blob/main/screen/UAV_search_experiment_steps.gif)
-![geojsonLayer](https://github.com/wtianzi/sarwebpro/blob/main/screen/study2_HeatMap3D.png)
-[more examples](https://github.com/wtianzi/SARWeb/blob/master/screen/)
+![Web interface](https://github.com/wtianzi/sarstudy2/blob/main/screen/UAV_search_experiment_steps.gif)
+![geojsonLayer](https://github.com/wtianzi/sarstudy2/blob/main/screen/study2_HeatMap3D.png)
+[more examples](https://github.com/wtianzi/sarstudy2/blob/master/screen/)
 
 ## Virtual Coach for laparoscopic surgery training[(detail page)](https://github.com/wtianzi/VirtualCoach_Multicam), PyTorch flask serve for inference[(detail page)](https://github.com/wtianzi/pytorchflaskserver)
 ![maininterface](https://github.com/wtianzi/VirtualCoach_Multicam/blob/master/screen/mainwindow.png)
